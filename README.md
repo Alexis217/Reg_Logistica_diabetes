@@ -66,7 +66,8 @@ Utilizando variables clave como **Glucosa** e **IMC** para facilitar la interpre
 
 1. Clonar el repositorio
 2. Abrí el archivo `logistica.ipynb`
-3. Ejecutá cada celda paso a paso
+3. Instalar las dependencias
+4. Ejecutar cada celda paso a paso
 
 ---
 
